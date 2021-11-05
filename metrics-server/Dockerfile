@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/metrics-server/metrics-server:v0.5.1
+FROM jaegertracing/all-in-one:1.24.0
