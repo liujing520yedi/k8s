@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/pause:3.2
+FROM derailed/popeye:latest
 MAINTAINER liujing<631412640@qq.com>
