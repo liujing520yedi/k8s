@@ -1,3 +1,3 @@
-FROM registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.6.9
+FROM registry.k8s.io/defaultbackend-amd64:1.5
 LABEL maintainer="sre team"
 
